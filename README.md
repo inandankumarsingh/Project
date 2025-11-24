@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-created by Nandan Singh
+created by Nandan Kumar Singh
